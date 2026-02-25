@@ -7,3 +7,6 @@ Moises
 ## Tecnologias
 git
 Vscode
+
+# Estado del proyecto
+Actividad Git realizada
